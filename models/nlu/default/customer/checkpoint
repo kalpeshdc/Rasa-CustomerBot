@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Kalpesh Chaudhari\\Documents\\Projects\\rasa\\Rasa-CustomerBot\\models/nlu\\default\\customer\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Kalpesh Chaudhari\\Documents\\Projects\\rasa\\Rasa-CustomerBot\\models/nlu\\default\\customer\\intent_classifier_tensorflow_embedding.ckpt"
