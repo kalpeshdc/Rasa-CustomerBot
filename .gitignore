@@ -109,4 +109,4 @@ venv.bak/
 .idea/vcs.xml
 .idea/workspace.xml
 .idea/copyright/
-.idea/codeStyles
+.idea/**
